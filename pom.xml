@@ -1,0 +1,4 @@
+<modules>
+    <module>common</module>
+    <module>order-service</module>
+</modules>
